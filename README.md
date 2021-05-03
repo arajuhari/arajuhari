@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arajuhari
+- 👋 Hi, I’m Rajuhari
 - 👀 I’m interested in Salesforce
 - 🌱 I’m currently learning Platform Developer modules
 - 📫 To reach me - (+91 962-022-4466)
